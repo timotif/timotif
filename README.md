@@ -36,7 +36,7 @@ Professional violinist with a deep passion for software engineering. Pursuing bo
 ## 🚀 Current Focus
 
 - 🤖 **AI Engineering** - Building RAG systems and autonomous agent architectures
-- 🌍 **Open Source** - Fixed critical bug in [csv2notion-neo](https://github.com/TheAcharya/csv2notion-neo) (multipage integration breaking), added comprehensive tests, [featured in v2.0.2 release](https://github.com/TheAcharya/csv2notion-neo/releases/tag/v2.0.2)
+- 🌍 **Open Source** - Active contributor to [csv2notion-neo](https://github.com/TheAcharya/csv2notion-neo): fixed critical bugs (multipage integration, database cache handling), added programmatic error handling API, expanded test coverage ([v2.0.2](https://github.com/TheAcharya/csv2notion-neo/releases/tag/v2.0.2)–[v2.0.4](https://github.com/TheAcharya/csv2notion-neo/releases/tag/v2.0.4))
 - 🎵 **Tech Meets Music** - Built integrated production management system for Conservatorio della Svizzera italiana Lugano using Notion (10 relational databases) with custom Python API integrations for batch operations, Excel imports/exports, deployed on private VPS infrastructure
 - 🔐 **Systems & Security** - Exploring cybersecurity principles, reverse engineering, and low-level optimization
 
