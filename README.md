@@ -13,6 +13,8 @@ Professional violinist with a deep passion for software engineering. Pursuing bo
 
 **[webserver](https://github.com/timotif/webserver)** - HTTP/1.1 server in C++98 | Event-driven architecture with epoll/poll, CGI support, NGINX-style configuration, 378 commits
 
+**[Divisi](https://github.com/timotif/divisi-partifi_v2)** (Partifi-v2) - Music score partitioner | React + Python/Flask backend, interactive UI for orchestral PDF score splitting, staff division, layout preview with A4 pagination, PDF generation
+
 ## 💻 Technical Skills
 
 ### Systems & Low-Level Programming
