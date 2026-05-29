@@ -5,7 +5,11 @@
 
 Professional violinist with a deep passion for software engineering. Pursuing both my musical career and growing curiosity for building systems that solve real-world problems. Currently exploring systems programming, blockchain, and AI at **42 Berlin**.
 
+> 🎙️ **Latest:** [**Call Bullshit**](https://github.com/timotif/call-bullshit) — real-time voice fact-checker that interrupts mid-speech when it catches a lie. Built in **5 hours** at the Nebius × Tavily × Gradium hackathon (Berlin, May 2026).
+
 ## 🔨 Featured Projects
+
+**[call-bullshit](https://github.com/timotif/call-bullshit)** — **Call Bullshit** · real-time voice fact-checker that interrupts mid-speech when it catches a lie | Built in **5 hours** at the Nebius × Tavily × Gradium hackathon (Berlin, May 2026) · Gradium STT/TTS, Tavily search, Nebius LLM · parallel mid-speech checks, streaming rebuttal TTS, live dashboard
 
 **[geca-calendar](https://github.com/timotif/geca-calendar)** - Orchestra calendar automation | Python/Flask, Notion API sync, customizable iCal generation, Docker deployment, solves real workflow problem
 
@@ -37,6 +41,7 @@ Professional violinist with a deep passion for software engineering. Pursuing bo
 
 ## 🚀 Current Focus
 
+- 🎙️ **[Call Bullshit](https://github.com/timotif/call-bullshit)** — hackathon voice agent: listens, fact-checks against the web, heckles out loud on contradicted claims
 - 🤖 **AI Engineering** - Building RAG systems and autonomous agent architectures
 - 🌍 **Open Source** - Active contributor to [csv2notion-neo](https://github.com/TheAcharya/csv2notion-neo): fixed critical bugs (multipage integration, database cache handling), added programmatic error handling API, expanded test coverage ([v2.0.2](https://github.com/TheAcharya/csv2notion-neo/releases/tag/v2.0.2)–[v2.0.4](https://github.com/TheAcharya/csv2notion-neo/releases/tag/v2.0.4))
 - 🎵 **Tech Meets Music** - Built integrated production management system for Conservatorio della Svizzera italiana Lugano using Notion (10 relational databases) with custom Python API integrations for batch operations, Excel imports/exports, deployed on private VPS infrastructure
